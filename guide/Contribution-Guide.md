@@ -53,7 +53,7 @@ or
 
 
 ## Where can I find these Events
-That's an apt question. You can browse sites like [Devfolio](), [Devpost](), [LinkedIn]() and other Professional Networking sites
+That's an apt question. You can browse sites like [Devfolio](https://devfolio.co/), [Devpost](https://devpost.com/), [LinkedIn](https://www.linkedin.com) and other Professional Networking sites
 
 ## Why this guide seems confusing ?
 I too thought of the same. It might look slightly convincing for me but for beginners, It can be a liitle daunting. In such case, `Create an Issue` regarding that  and we'll make sure to patch it up quickly
