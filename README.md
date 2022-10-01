@@ -12,3 +12,4 @@ Refer to [Contribution Guide](guide/Contribution-Guide.md) for Detailed Explanat
 | 03 March 2022 | Google Summer of Code | Google | https://summerofcode.withgoogle.com/ | Open source contribution for the widely used software |
 |23-24 July |Code Gladiators|TECHGIG|https://www.techgig.com/codegladiators|Freshers and Working Professionals in the field strive to prove they are the best coders in the world|
 |16 dec 2022|techfest|iit bombay|https://techfest.org|india's biggest techfest|
+|April| Smart india hackthon | Govt of India | https://sih.gov.in/|All the PSU encourage the students to slove the problem
