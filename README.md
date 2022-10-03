@@ -15,3 +15,4 @@ Refer to [Contribution Guide](guide/Contribution-Guide.md) for Detailed Explanat
 |April| Smart india hackthon | Govt of India | https://sih.gov.in/|All the PSU encourage the students to slove the problem
 |sep and feb |Github campus expert|Github|https://githubcampus.expert/| to get traning from the github and swags |
 |throught the year|microsoft learn student ambassador|Microsoft|https://studentambassadors.microsoft.com|technical training and swags|
+|Application end on dec 14 2021|Github India Externship|Github|https://externship.github.in/|90-day fellowship program for third or pre-final year students of GitHub Campus Partner schools. The initiative provides hands-on learning with practical and on ground experience.
