@@ -17,3 +17,4 @@ Refer to [Contribution Guide](guide/Contribution-Guide.md) for Detailed Explanat
 |throught the year|microsoft learn student ambassador|Microsoft|https://studentambassadors.microsoft.com|technical training and swags|
 |Application end on dec 14 2021|Github India Externship|Github|https://externship.github.in/|90-day fellowship program for third or pre-final year students of GitHub Campus Partner schools. The initiative provides hands-on learning with practical and on ground experience.|
 |Throught the year|MLH fellowship|MLH|https://fellowship.mlh.io/|remote fellow to encourage the student to do open source |
+| 09 October 2022 | Hackerearth Hackathon | HackerEarth | https://www.hackerearth.com/challenges/hackathon/hackathon-002/ | Online hackathon for coding Enthusiasts |
